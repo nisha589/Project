@@ -1,2 +1,2 @@
 # Project
-Travel Seekers is a responsive travel booking website developed using HTML5, CSS3, and JavaScript. It allows users to explore travel destinations, view travel packages, and book tickets easily through a user-friendly interface.
+Kids Learning Quiz Game is an interactive educational web game developed using HTML, CSS, and JavaScript. It helps children learn basic knowledge such as math, colors, animals, and general questions in a fun and engaging way. The game includes multiple-choice questions, instant feedback, and a score system to make learning enjoyable.
